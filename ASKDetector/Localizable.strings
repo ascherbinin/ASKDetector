@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  ASKDetector
+
+  Created by Андрей Щербинин on 22.09.16.
+  Copyright © 2016 AS. All rights reserved.
+*/
+
+
+"AUTH_ERROR"            = "Требуется авторизация";
+"FUNC_NOT_FOUND_ERROR"  = "Метод не найден";
+"INTERNAL_ERROR"        = "Внутренняя ошибка сервера";
+"REQUEST_EXCEPTION"     = "Исключение при обработке запроса";
+"OBJECTS"               = "Объекты";
